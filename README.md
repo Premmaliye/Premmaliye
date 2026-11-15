@@ -10,7 +10,7 @@
 
 💻 Developing scalable applications using **React, Next.js, Node.js, TypeScript & Supabase.**
 
-🔌 Working with **ESP32, Teltonika Gateways, MQTT, RS485/Modbus, PLC, VFD & HMI.**
+🔌 Working with **ESP32, Gateways, MQTT, RS485/Modbus, PLC, VFD & HMI.**
 
 🐳 Managing application deployments, containers, servers and infrastructure using **Docker, Docker Compose, Dokploy & Linux.**
 
