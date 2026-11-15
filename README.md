@@ -1,4 +1,4 @@
-# 👋 About Me: I'm a Software Developer | DevOps & IoT Engineer
+# 👋 About Me: I'm a Software Developer | DevOps Engineer
 
 🚀 I'm currently working as a **Software Developer | IoT Infrastructure Developer at SeeTech Solutions Pvt. Ltd.**
 
